@@ -482,6 +482,15 @@ input, select, textarea {
         width: 60%;
     }
 
+    .spotlight .content h2 {
+        font-size:18px;
+    }
+
+    .spotlight .content li {
+        list-style-type: disc;
+        font-size: 16px;
+    }
+
     .spotlight:nth-child(2n) {
         -moz-flex-direction: row-reverse;
         -webkit-flex-direction: row-reverse;
